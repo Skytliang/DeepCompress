@@ -32,7 +32,7 @@
 
 1. Dual Reward Strategy: Unlike existing methods that indiscriminately penalize long responses, DeepCompress employs an adaptive length reward. It encourages concise, efficient reasoning for "Simple" problems while promoting deeper, exploratory chains of thought for "Hard" problems.
 
-<div align="center"> <img src="./assets/dual-reward-mechanism.png" width="600"/>
+<div align="center"> <img src="./assets/dual-reward-mechanism.png" width="800"/>
 
 <sub>The mechanism of adaptively rewarding shorter vs. longer reasoning paths based on difficulty.</sub> </div>
 
@@ -40,7 +40,7 @@
 
 3. Simultaneous Efficiency & Accuracy: DeepCompress consistently outperforms baseline methods (such as DeepMath-Zero) on challenging benchmarks like AIME 2025 and MATH-500. Crucially, it achieves these gains while reducing token usage by up to 57.9%, effectively compressing reasoning without sacrificing depth.
 
-<div align="center"> <img src="./assets/accuracy-efficiency-results.png" width="600"/>
+<div align="center"> <img src="./assets/accuracy-efficiency-results.png" width="800"/>
 
 <sub>Comparison of Pass@1 Accuracy vs. Average Token Length across benchmarks.</sub> </div>
 
