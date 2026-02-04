@@ -52,9 +52,9 @@
 #### Environment Preparation
 
 ```shell
-git clone --recurse-submodules https://github.com/zwhe99/DeepMath.git && cd DeepMath
+git clone --recurse-submodules https://github.com/Skytliang/DeepCompress.git && cd DeepCompress
 
-conda create -y -n deepmath python=3.12.2 && conda activate deepmath
+conda create -y -n deepcompress python=3.12.2 && conda activate deepcompress
 pip3 install ray[default]
 pip3 install torch==2.5.1 torchvision==0.20.1 torchaudio==2.5.1 --index-url https://download.pytorch.org/whl/cu124
 pip3 install flash-attn==2.7.4.post1 --no-build-isolation
