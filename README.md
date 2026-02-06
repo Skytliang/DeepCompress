@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/Skytliang/DeepCompress)](https://github.com/Skytliang/DeepCompress/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/Skytliang/DeepCompress?style=for-the-badge&logo=github&logoColor=white&label=Stars&color=000000)](https://github.com/Skytliang/DeepCompress)
 [![Github](https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Skytliang/DeepCompress)
 [![arXiv](https://img.shields.io/badge/arXiv-2510.27419-b31b1b.svg?style=for-the-badge)](https://arxiv.org/abs/2510.27419)
 </div>
